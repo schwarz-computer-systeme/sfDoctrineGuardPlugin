@@ -15,7 +15,7 @@ a configurable plugin.
 
   * Install the plugin (via a Subversion checkout)
   
-        svn co http//svn.symfony-project.com/plugins/sfDoctrineGuardPlugin/trunk plugins/sfDoctrineGuardPlugin
+        svn co http://svn.symfony-project.com/plugins/sfDoctrineGuardPlugin/branches/1.3 plugins/sfDoctrineGuardPlugin
 
   * Activate the plugin in the `config/ProjectConfiguration.class.php`
   
